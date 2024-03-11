@@ -4,7 +4,7 @@ Welcome to Qodly! We're excited you're here and want to contribute 🎉.
 
 ## Code of Conduct
 
-Before contributing, please make sure to read and abide by our [Code of Conduct]().
+Before contributing, please make sure to read and abide by our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Steps to Contribute
 
@@ -12,8 +12,10 @@ Ensure your pull request adheres to the following guidelines:
 
 * Search previous suggestions before making a new one, as yours may be a duplicate.
 * Make an individual pull request for each suggestion.
+* The pull request title should be in the following format: `Add Project Name`
+* The suggestion should be in English.
 * Choose the corresponding section (Data display, Feedback, Inputs, Navigation) for your suggestion.
-* Use the following format: * list-name - A short description ending with a period.
+* Use the following format: `* [title](link) - A short description ending with a period.`
 * Keep descriptions short and simple.
 * Order link titles alphabetically within each category.
 * Check your spelling and grammar.
