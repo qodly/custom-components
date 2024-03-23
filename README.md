@@ -13,22 +13,23 @@ Contributions are welcome and encouraged! Please take a look at the [contributio
 
 ## Data Display
 
+- [qodly_accordion](https://github.com/metayoub/qodly_accordion) - Accordion component for Qodly apps.
+- [qodly_avatarGroup](https://github.com/metayoub/Qoldy_avatarGroup) - Qodly Custom Component for Displaying Group Avatars.
+- [qodly_calendar](https://github.com/TihounaNasrallah/qodly-calendar) - Calendar Component for Qodly studio.
+- [qodly_carousel](https://github.com/metayoub/qodly-carousel) - Carousel component for Qodly studio.
 - [qodly_chart](https://github.com/metayoub/qodly_chart) - Pie & Doughnut, Line and Area charts component.
 - [qodly_map](https://github.com/rihab-ze/qodly_map) - Map Component for Qodly studio using leaftletJs and OpenStreetMAp.
 - [qodly_mediaPlayer](https://github.com/b-fadwa/audio-player) - The pack provides two components, a custom audio player and a custom video player.
-- [qodly_datePicker](https://github.com/rihab-ze/qodly_datePicker) - Date Picker Component for Qodly studio.
-- [qodly_calendar](https://github.com/TihounaNasrallah/qodly-calendar) - Calendar Component for Qodly studio.
 - [qodly_Tags](https://github.com/TihounaNasrallah/qodly-calendar) - Tags component for Qodly studio.
-- [qodly_carousel](https://github.com/metayoub/qodly-carousel) - Carousel component for Qodly studio.
-- [qodly_accordion](https://github.com/metayoub/qodly_accordion) - Accordion component for Qodly apps.
-- [qodly_rating](https://github.com/metayoub/qoldy_rating) - Rating component for Qodly studio.
-- [qodly_tinyMCE](https://github.com/metayoub/Qodly_TinyMCE) - Text Editor component for Qodly studio.
 - [qodly_timeline](https://github.com/AyaBengherifa/Qodly_timeline) - Text Editor component for Qodly studio.
-- [qodly_avatarGroup](https://github.com/metayoub/Qoldy_avatarGroup) - Qodly Custom Component for Displaying Group Avatars.
 - [qodly_signature](https://github.com/metayoub/qodly_signature) - Signature component for Qodly studio.
 
 ## Feedback
 
 ## Inputs
 
+- [qodly_datePicker](https://github.com/rihab-ze/qodly_datePicker) - Date Picker Component for Qodly studio.
+- [qodly_rating](https://github.com/metayoub/qoldy_rating) - Rating component for Qodly studio.
+- [qodly_tinyMCE](https://github.com/metayoub/Qodly_TinyMCE) - Text Editor component for Qodly studio.
+- 
 ## Navigation
