@@ -4,6 +4,9 @@ This repository is a collection of custom components created by the community. I
 
 Contributions are welcome and encouraged! Please take a look at the [contribution guidelines](CONTRIBUTING.md).
 
+See the [Qodly documentation](https://developer.qodly.com/docs/customComponent/overview) to learn how to write custom components.
+
+
 ## Table of Contents
 
 - [Data Display](#data-display)
@@ -31,5 +34,5 @@ Contributions are welcome and encouraged! Please take a look at the [contributio
 - [qodly_datePicker](https://github.com/rihab-ze/qodly_datePicker) - Date Picker Component for Qodly studio.
 - [qodly_rating](https://github.com/metayoub/qoldy_rating) - Rating component for Qodly studio.
 - [qodly_tinyMCE](https://github.com/metayoub/Qodly_TinyMCE) - Text Editor component for Qodly studio.
-- 
+-
 ## Navigation
