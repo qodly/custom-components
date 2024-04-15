@@ -29,6 +29,9 @@ See the [Qodly documentation](https://developer.qodly.com/docs/customComponent/o
 
 ## Feedback
 
+## UI layout
+- [qodly_grid layout](https://github.com/metayoub/qodly-grid-layout)) - Make your dashboard more powerfull with qodly-grid-layout
+
 ## Inputs
 
 - [qodly_datePicker](https://github.com/rihab-ze/qodly_datePicker) - Date Picker Component for Qodly studio.
