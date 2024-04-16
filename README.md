@@ -38,6 +38,6 @@ See the [Qodly documentation](https://developer.qodly.com/docs/customComponent/o
 - [qodly_datePicker](https://github.com/rihab-ze/qodly_datePicker) - Date Picker Component for Qodly studio.
 - [qodly_rating](https://github.com/metayoub/qoldy_rating) - Rating component for Qodly studio.
 - [qodly_tinyMCE](https://github.com/metayoub/Qodly_TinyMCE) - Text Editor component for Qodly studio.
-- [qodly_colorPikcer](https://github.com/metayoub/qodly_color_input) - Color Picker component for Qodly studio.
+- [qodly_colorPicker](https://github.com/metayoub/qodly_color_input) - Color Picker component for Qodly studio.
 
 ## Navigation
