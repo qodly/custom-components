@@ -6,6 +6,9 @@ Contributions are welcome and encouraged! Please take a look at the [contributio
 
 See the [Qodly documentation](https://developer.qodly.com/docs/customComponent/overview) to learn how to write custom components.
 
+To download custom components:
+
+![alt text](https://github.com/qodly/custom-components/blob/main/install%20component.gif)
 
 ## Table of Contents
 
