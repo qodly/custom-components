@@ -31,7 +31,7 @@ See the [Qodly documentation](https://developer.qodly.com/docs/customComponent/o
 ## Feedback
 
 ## UI Layout
-- [qodly_grid layout](https://github.com/metayoub/qodly-grid-layout)) - Make your dashboard more powerfull with qodly-grid-layout
+- [qodly_grid layout](https://github.com/metayoub/qodly-grid-layout) - Make your dashboard more powerfull with qodly-grid-layout
 
 ## Inputs
 
