@@ -27,7 +27,7 @@ To download custom components:
 - [qodly_chart](https://github.com/metayoub/qodly_chart) - Pie & Doughnut, Line and Area charts component.
 - [qodly_map](https://github.com/rihab-ze/qodly_map) - Map Component for Qodly studio using leaftletJs and OpenStreetMAp.
 - [qodly_mediaPlayer](https://github.com/b-fadwa/audio-player) - The pack provides two components, a custom audio player and a custom video player.
-- [qodly_Tags](https://github.com/TihounaNasrallah/qodly-calendar) - Tags component for Qodly studio.
+- [qodly_Tags](https://github.com/AyaBengherifa/Qodly_Tags) - Tags component for Qodly studio.
 - [qodly_timeline](https://github.com/AyaBengherifa/Qodly_timeline) - Text Editor component for Qodly studio.
 - [qodly_signature](https://github.com/metayoub/qodly_signature) - Signature component for Qodly studio.
 
