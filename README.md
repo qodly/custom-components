@@ -4,11 +4,13 @@ This repository is a collection of custom components created by the community. I
 
 Contributions are welcome and encouraged! Please take a look at the [contribution guidelines](CONTRIBUTING.md).
 
-See the [Qodly documentation](https://developer.qodly.com/docs/customComponent/overview) to learn how to write custom components.
+See the [Qodly documentation](https://developer.qodly.com/docs/customComponent/overview) to learn how to code a new custom components.
 
 To download custom components:
 
 ![alt text](https://github.com/qodly/custom-components/blob/main/install%20component.gif)
+
+To see how to install the component in the Studio: [Qodly documentation](https://developer.qodly.com/docs/studio/design-webforms/components/uploadCustomComponents)
 
 ## Table of Contents
 
