@@ -35,6 +35,7 @@ To see how to install the component in the Studio: [Qodly documentation](https:/
 - [qodly_tree](https://github.com/rihab-ze/qodly_treeView) - Tree component for Qodly studio.
 - [qodly_pdfViewer](https://github.com/AyaBengherifa/Qodly-pdfViewer) - PDF Viewer component for Qodly studio.
 - [qodly_fileDownload](https://github.com/b-fadwa/Qodly-file-download) - Download Button for Qodly Studio.
+- [qodly_QRCode](https://github.com/almostafanahas/qodly-Code-QR) - QR Code Component for Qodly Studio.
 
 ## Feedback
 
