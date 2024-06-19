@@ -20,7 +20,7 @@ To see how to install the component in the Studio: [Qodly documentation](https:/
 - [Inputs](#inputs)
 - [Navigation](#navigation)
 
-## Data Display
+## Data Display 
 
 - [qodly_accordion](https://github.com/metayoub/qodly_accordion) - Accordion component for Qodly apps. [Download here](https://github.com/metayoub/qodly_accordion/releases)
 - [qodly_avatarGroup](https://github.com/metayoub/Qoldy_avatarGroup) - Qodly Custom Component for Displaying Group Avatars. [Download here](https://github.com/metayoub/Qoldy_avatarGroup/releases)
