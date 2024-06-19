@@ -22,31 +22,31 @@ To see how to install the component in the Studio: [Qodly documentation](https:/
 
 ## Data Display
 
-- [qodly_accordion](https://github.com/metayoub/qodly_accordion) - Accordion component for Qodly apps.
-- [qodly_avatarGroup](https://github.com/metayoub/Qoldy_avatarGroup) - Qodly Custom Component for Displaying Group Avatars.
-- [qodly_calendar](https://github.com/TihounaNasrallah/qodly-calendar) - Calendar Component for Qodly studio.
-- [qodly_carousel](https://github.com/metayoub/qodly-carousel) - Carousel component for Qodly studio.
-- [qodly_chart](https://github.com/metayoub/qodly_chart) - Pie & Doughnut, Line and Area charts component.
-- [qodly_map](https://github.com/rihab-ze/qodly_map) - Map Component for Qodly studio using leaftletJs and OpenStreetMAp.
-- [qodly_mediaPlayer](https://github.com/b-fadwa/audio-player) - The pack provides two components, a custom audio player and a custom video player.
-- [qodly_Tags](https://github.com/AyaBengherifa/Qodly_Tags) - Tags component for Qodly studio.
-- [qodly_timeline](https://github.com/AyaBengherifa/Qodly_timeline) - Text Editor component for Qodly studio.
-- [qodly_signature](https://github.com/metayoub/qodly_signature) - Signature component for Qodly studio.
-- [qodly_tree](https://github.com/rihab-ze/qodly_treeView) - Tree component for Qodly studio.
-- [qodly_pdfViewer](https://github.com/AyaBengherifa/Qodly-pdfViewer) - PDF Viewer component for Qodly studio.
-- [qodly_fileDownload](https://github.com/b-fadwa/Qodly-file-download) - Download Button for Qodly Studio.
-- [qodly_QRCode](https://github.com/almostafanahas/qodly-Code-QR) - QR Code Component for Qodly Studio.
+- [qodly_accordion](https://github.com/metayoub/qodly_accordion) - Accordion component for Qodly apps. [Download here](https://github.com/metayoub/qodly_accordion/releases)
+- [qodly_avatarGroup](https://github.com/metayoub/Qoldy_avatarGroup) - Qodly Custom Component for Displaying Group Avatars. [Download here](https://github.com/metayoub/Qoldy_avatarGroup/releases)
+- [qodly_calendar](https://github.com/TihounaNasrallah/qodly-calendar) - Calendar Component for Qodly studio. [Download here](https://github.com/TihounaNasrallah/qodly-calendar/releases)
+- [qodly_carousel](https://github.com/metayoub/qodly-carousel) - Carousel component for Qodly studio. [Download here](https://github.com/metayoub/qodly-carousel/releases)
+- [qodly_chart](https://github.com/metayoub/qodly_chart) - Pie & Doughnut, Line and Area charts component. [Download here](https://github.com/metayoub/qodly_chart/releases)
+- [qodly_map](https://github.com/rihab-ze/qodly_map) - Map Component for Qodly studio using leaftletJs and OpenStreetMAp. [Download here](https://github.com/rihab-ze/qodly_map/releases)
+- [qodly_mediaPlayer](https://github.com/b-fadwa/audio-player) - The pack provides two components, a custom audio player and a custom video player. [Download here](https://github.com/b-fadwa/audio-player/releases)
+- [qodly_Tags](https://github.com/AyaBengherifa/Qodly_Tags) - Tags component for Qodly studio. [Download here](https://github.com/AyaBengherifa/Qodly_Tags/releases)
+- [qodly_timeline](https://github.com/AyaBengherifa/Qodly_timeline) - Text Editor component for Qodly studio. [Download here](https://github.com/AyaBengherifa/Qodly_timeline/releases)
+- [qodly_signature](https://github.com/metayoub/qodly_signature) - Signature component for Qodly studio. [Download here](https://github.com/metayoub/qodly_signature/releases)
+- [qodly_tree](https://github.com/rihab-ze/qodly_treeView) - Tree component for Qodly studio. [Download here](https://github.com/rihab-ze/qodly_treeView/releases)
+- [qodly_pdfViewer](https://github.com/AyaBengherifa/Qodly-pdfViewer) - PDF Viewer component for Qodly studio. [Download here](https://github.com/AyaBengherifa/Qodly-pdfViewer/releases)
+- [qodly_fileDownload](https://github.com/b-fadwa/Qodly-file-download) - Download Button for Qodly Studio. [Download here](https://github.com/b-fadwa/Qodly-file-download/releases)
+- [qodly_QRCode](https://github.com/almostafanahas/qodly-Code-QR) - QR Code Component for Qodly Studio. [Download here](https://github.com/almostafanahas/qodly-Code-QR/releases)
 
 ## Feedback
 
 ## UI Layout
-- [qodly_grid layout](https://github.com/metayoub/qodly-grid-layout) - Make your dashboard more powerfull with qodly-grid-layout
+- [qodly_grid layout](https://github.com/metayoub/qodly-grid-layout) - Make your dashboard more powerfull with qodly-grid-layout. [Download here](https://github.com/metayoub/qodly-grid-layout/releases)
 
 ## Inputs
 
-- [qodly_datePicker](https://github.com/rihab-ze/qodly_datePicker) - Date Picker Component for Qodly studio.
-- [qodly_rating](https://github.com/metayoub/qoldy_rating) - Rating component for Qodly studio.
-- [qodly_tinyMCE](https://github.com/metayoub/Qodly_TinyMCE) - Text Editor component for Qodly studio.
-- [qodly_colorPicker](https://github.com/metayoub/qodly_color_input) - Color Picker component for Qodly studio.
+- [qodly_datePicker](https://github.com/rihab-ze/qodly_datePicker) - Date Picker Component for Qodly studio. [Download here](https://github.com/rihab-ze/qodly_datePicker/releases)
+- [qodly_rating](https://github.com/metayoub/qoldy_rating) - Rating component for Qodly studio. [Download here](https://github.com/metayoub/qoldy_rating/releases)
+- [qodly_tinyMCE](https://github.com/metayoub/Qodly_TinyMCE) - Text Editor component for Qodly studio. [Download here](https://github.com/metayoub/Qodly_TinyMCE/releases)
+- [qodly_colorPicker](https://github.com/metayoub/qodly_color_input) - Color Picker component for Qodly studio. [Download here](https://github.com/metayoub/qodly_color_input/releases)
 
 ## Navigation
