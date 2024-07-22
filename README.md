@@ -36,6 +36,7 @@ To see how to install the component in the Studio: [Qodly documentation](https:/
 - [qodly_pdfViewer](https://github.com/AyaBengherifa/Qodly-pdfViewer) - PDF Viewer component for Qodly studio. [Download here](https://github.com/AyaBengherifa/Qodly-pdfViewer/releases)
 - [qodly_fileDownload](https://github.com/b-fadwa/Qodly-file-download) - Download Button for Qodly Studio. [Download here](https://github.com/b-fadwa/Qodly-file-download/releases)
 - [qodly_QRCode](https://github.com/almostafanahas/qodly-Code-QR) - QR Code Component for Qodly Studio. [Download here](https://github.com/almostafanahas/qodly-Code-QR/releases)
+- [qodly_ObjectViewer](https://github.com/b-fadwa/Qodly-object-viewer) - Object Viewer Component for Qodly Studio. [Download here](https://github.com/b-fadwa/Qodly-object-viewer/releases)
 
 ## Feedback
 
