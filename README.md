@@ -23,6 +23,7 @@ To see how to install the component in the Studio: [Qodly documentation](https:/
 ## Data Display 
 
 - [qodly_accordion](https://github.com/metayoub/qodly_accordion) - Accordion component for Qodly apps. [Download here](https://github.com/metayoub/qodly_accordion/releases)
+- [qodly_ApexCharts](https://github.com/LimpalaerCyril/Qodly_ApexCharts) - Line, Area, Bar, Pie & Donut charts with enhanced customization. [Download here](https://github.com/LimpalaerCyril/Qodly_ApexCharts/releases)
 - [qodly_avatarGroup](https://github.com/metayoub/Qoldy_avatarGroup) - Qodly Custom Component for Displaying Group Avatars. [Download here](https://github.com/metayoub/Qoldy_avatarGroup/releases)
 - [qodly_calendar](https://github.com/TihounaNasrallah/qodly-calendar) - Calendar Component for Qodly studio. [Download here](https://github.com/TihounaNasrallah/qodly-calendar/releases)
 - [qodly_carousel](https://github.com/metayoub/qodly-carousel) - Carousel component for Qodly studio. [Download here](https://github.com/metayoub/qodly-carousel/releases)
