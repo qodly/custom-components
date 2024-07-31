@@ -45,6 +45,7 @@ To see how to install the component in the Studio: [Qodly documentation](https:/
 
 ## Inputs
 
+- [qodly_slate](https://github.com/metayoub/qodly_slate)- Text Editor component for Qodly studio. [Download here](https://github.com/metayoub/qodly_slate/releases)
 - [qodly_datePicker](https://github.com/rihab-ze/qodly_datePicker) - Date Picker Component for Qodly studio. [Download here](https://github.com/rihab-ze/qodly_datePicker/releases)
 - [qodly_rating](https://github.com/metayoub/qoldy_rating) - Rating component for Qodly studio. [Download here](https://github.com/metayoub/qoldy_rating/releases)
 - [qodly_tinyMCE](https://github.com/metayoub/Qodly_TinyMCE) - Text Editor component for Qodly studio. [Download here](https://github.com/metayoub/Qodly_TinyMCE/releases)
