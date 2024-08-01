@@ -30,7 +30,7 @@ To see how to install the component in the Studio: [Qodly documentation](https:/
 - [qodly_map](https://github.com/rihab-ze/qodly_map) - Map Component for Qodly studio using leaftletJs and OpenStreetMAp. [Download here](https://github.com/rihab-ze/qodly_map/releases)
 - [qodly_mediaPlayer](https://github.com/b-fadwa/audio-player) - The pack provides two components, a custom audio player and a custom video player. [Download here](https://github.com/b-fadwa/audio-player/releases)
 - [qodly_Tags](https://github.com/AyaBengherifa/Qodly_Tags) - Tags component for Qodly studio. [Download here](https://github.com/AyaBengherifa/Qodly_Tags/releases)
-- [qodly_timeline](https://github.com/AyaBengherifa/Qodly_timeline) - Text Editor component for Qodly studio. [Download here](https://github.com/AyaBengherifa/Qodly_timeline/releases)
+- [qodly_timeline](https://github.com/AyaBengherifa/Qodly_timeline) - Timeline component for Qodly studio. [Download here](https://github.com/AyaBengherifa/Qodly_timeline/releases)
 - [qodly_signature](https://github.com/metayoub/qodly_signature) - Signature component for Qodly studio. [Download here](https://github.com/metayoub/qodly_signature/releases)
 - [qodly_tree](https://github.com/rihab-ze/qodly_treeView) - Tree component for Qodly studio. [Download here](https://github.com/rihab-ze/qodly_treeView/releases)
 - [qodly_pdfViewer](https://github.com/AyaBengherifa/Qodly-pdfViewer) - PDF Viewer component for Qodly studio. [Download here](https://github.com/AyaBengherifa/Qodly-pdfViewer/releases)
@@ -42,6 +42,8 @@ To see how to install the component in the Studio: [Qodly documentation](https:/
 
 ## UI Layout
 - [qodly_grid layout](https://github.com/metayoub/qodly-grid-layout) - Make your dashboard more powerfull with qodly-grid-layout. [Download here](https://github.com/metayoub/qodly-grid-layout/releases)
+- [qodly_StylishBox](https://github.com/TihounaNasrallah/qodly-stylishbox) - Use Dynamic variable in your CSS code. [Download here](https://github.com/TihounaNasrallah/qodly-stylishbox/releases)
+
 
 ## Inputs
 
