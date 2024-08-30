@@ -38,7 +38,8 @@ To see how to install the component in the Studio: [Qodly documentation](https:/
 - [qodly_fileDownload](https://github.com/b-fadwa/Qodly-file-download) - Download Button for Qodly Studio. [Download here](https://github.com/b-fadwa/Qodly-file-download/releases)
 - [qodly_QRCode](https://github.com/almostafanahas/qodly-Code-QR) - QR Code Component for Qodly Studio. [Download here](https://github.com/almostafanahas/qodly-Code-QR/releases)
 - [qodly_ObjectViewer](https://github.com/b-fadwa/Qodly-object-viewer) - Object Viewer Component for Qodly Studio. [Download here](https://github.com/b-fadwa/Qodly-object-viewer/releases)
-
+- [qodly_IFrame](https://github.com/TihounaNasrallah/qodly-iframe) - Iframe Component for Qodly Studio. [Download here](https://github.com/TihounaNasrallah/qodly-iframe/releases)
+- 
 ## Feedback
 
 ## UI Layout
