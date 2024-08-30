@@ -30,7 +30,7 @@ To see how to install the component in the Studio: [Qodly documentation](https:/
 - [qodly_chart](https://github.com/metayoub/qodly_chart) - Pie & Doughnut, Line and Area charts component. [Download here](https://github.com/metayoub/qodly_chart/releases)
 - [qodly_map](https://github.com/rihab-ze/qodly_map) - Map Component for Qodly studio using leaftletJs and OpenStreetMAp. [Download here](https://github.com/rihab-ze/qodly_map/releases)
 - [qodly_mediaPlayer](https://github.com/b-fadwa/audio-player) - The pack provides two components, a custom audio player and a custom video player. [Download here](https://github.com/b-fadwa/audio-player/releases)
-- [qodly_Tags](https://github.com/AyaBengherifa/Qodly_Tags) - Tags component for Qodly studio. [Download here](https://github.com/AyaBengherifa/Qodly_Tags/releases)
+- [qodly_Tags](https://github.com/metayoub/qodly_tags) - Tags component for Qodly studio. [Download here](https://github.com/metayoub/qodly_tags/releases)
 - [qodly_timeline](https://github.com/AyaBengherifa/Qodly_timeline) - Timeline component for Qodly studio. [Download here](https://github.com/AyaBengherifa/Qodly_timeline/releases)
 - [qodly_signature](https://github.com/metayoub/qodly_signature) - Signature component for Qodly studio. [Download here](https://github.com/metayoub/qodly_signature/releases)
 - [qodly_tree](https://github.com/rihab-ze/qodly_treeView) - Tree component for Qodly studio. [Download here](https://github.com/rihab-ze/qodly_treeView/releases)
