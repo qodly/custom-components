@@ -43,8 +43,8 @@ To see how to install the component in the Studio: [Qodly documentation](https:/
 
 ## UI Layout
 - [qodly_grid layout](https://github.com/metayoub/qodly-grid-layout) - Make your dashboard more powerfull with qodly-grid-layout. [Download here](https://github.com/metayoub/qodly-grid-layout/releases)
+- [qodly_PopOver](https://github.com/metayoub/qodly_popover) - Create your own PopOver or DropDown. [Download here](https://github.com/metayoub/qodly_popover/releases)
 - [qodly_StylishBox](https://github.com/TihounaNasrallah/qodly-stylishbox) - Use Dynamic variable in your CSS code. [Download here](https://github.com/TihounaNasrallah/qodly-stylishbox/releases)
-
 
 ## Inputs
 
