@@ -40,13 +40,15 @@ To see how to install the component in the Studio: [Qodly documentation](https:/
 - [qodly_ObjectViewer](https://github.com/b-fadwa/Qodly-object-viewer) - Object Viewer Component for Qodly Studio. [Download here](https://github.com/b-fadwa/Qodly-object-viewer/releases)
 - [qodly_IFrame](https://github.com/TihounaNasrallah/qodly-iframe) - Iframe Component for Qodly Studio. [Download here](https://github.com/TihounaNasrallah/qodly-iframe/releases)
 - [qodly_webCam](https://github.com/metayoub/qodly_webCam) - WebCam Component for Qodly Studio. [Download here](https://github.com/metayoub/qodly_webCam/releases)
-- 
+- [qodly_fileManager](https://github.com/AyaBengherifa/Qodly-fileManager) - File Manager for Qodly Studio. [Download here](https://github.com/AyaBengherifa/Qodly-fileManager/releases)
+  
 ## Feedback
 
 ## UI Layout
 - [qodly_grid layout](https://github.com/metayoub/qodly-grid-layout) - Make your dashboard more powerfull with qodly-grid-layout. [Download here](https://github.com/metayoub/qodly-grid-layout/releases)
 - [qodly_PopOver](https://github.com/metayoub/qodly_popover) - Create your own PopOver or DropDown. [Download here](https://github.com/metayoub/qodly_popover/releases)
 - [qodly_StylishBox](https://github.com/TihounaNasrallah/qodly-stylishbox) - Use Dynamic variable in your CSS code. [Download here](https://github.com/TihounaNasrallah/qodly-stylishbox/releases)
+- [qodly_Virtualizer](https://github.com/metayoub/qodly_virtualizer) - A dynamic Matrix for your qodly project. [Download here](https://github.com/metayoub/qodly_virtualizer/releases)
 
 ## Inputs
 
