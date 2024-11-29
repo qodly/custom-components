@@ -40,7 +40,7 @@ To see how to install the component in the Studio: [Qodly documentation](https:/
 - [qodly_ObjectViewer](https://github.com/b-fadwa/Qodly-object-viewer) - Object Viewer Component for Qodly Studio. [Download here](https://github.com/b-fadwa/Qodly-object-viewer/releases)
 - [qodly_IFrame](https://github.com/TihounaNasrallah/qodly-iframe) - Iframe Component for Qodly Studio. [Download here](https://github.com/TihounaNasrallah/qodly-iframe/releases)
 - [qodly_webCam](https://github.com/metayoub/qodly_webCam) - WebCam Component for Qodly Studio. [Download here](https://github.com/metayoub/qodly_webCam/releases)
-- [qodly_fileManager](https://github.com/AyaBengherifa/Qodly-fileManager) - File Manager for Qodly Studio. [Download here](https://github.com/AyaBengherifa/Qodly-fileManager/releases)
+- [qodly_fileManager](https://github.com/metayoub/qodly_filemanager) - File Manager for Qodly Studio. [Download here](https://github.com/metayoub/qodly_filemanager/releases)
   
 ## Feedback
 
