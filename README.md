@@ -30,7 +30,7 @@ To see how to install the component in the Studio: [Qodly documentation](https:/
 - [qodly_chart](https://github.com/metayoub/qodly_chart) - Pie & Doughnut, Line and Area charts component. [Download here](https://github.com/metayoub/qodly_chart/releases)
 - [qodly_map](https://github.com/rihab-ze/qodly_map) - Map Component for Qodly studio using leaftletJs and OpenStreetMAp. [Download here](https://github.com/rihab-ze/qodly_map/releases)
 - [qodly_mediaPlayer](https://github.com/b-fadwa/audio-player) - The pack provides two components, a custom audio player and a custom video player. [Download here](https://github.com/b-fadwa/audio-player/releases)
-- [qodly_OrgTree](https://github.com/LimpalaerCyril/Qodly_OrgTree)) - Organizational tree component for Qodly. [Download here](https://github.com/LimpalaerCyril/Qodly_OrgTree/releases)
+- [qodly_OrgTree](https://github.com/LimpalaerCyril/Qodly_OrgTree) - Organizational tree component for Qodly. [Download here](https://github.com/LimpalaerCyril/Qodly_OrgTree/releases)
 - [qodly_Tags](https://github.com/metayoub/qodly_tags) - Tags component for Qodly studio. [Download here](https://github.com/metayoub/qodly_tags/releases)
 - [qodly_timeline](https://github.com/AyaBengherifa/Qodly_timeline) - Timeline component for Qodly studio. [Download here](https://github.com/AyaBengherifa/Qodly_timeline/releases)
 - [qodly_signature](https://github.com/metayoub/qodly_signature) - Signature component for Qodly studio. [Download here](https://github.com/metayoub/qodly_signature/releases)
@@ -50,7 +50,8 @@ To see how to install the component in the Studio: [Qodly documentation](https:/
 - [qodly_PopOver](https://github.com/metayoub/qodly_popover) - Create your own PopOver or DropDown. [Download here](https://github.com/metayoub/qodly_popover/releases)
 - [qodly_StylishBox](https://github.com/TihounaNasrallah/qodly-stylishbox) - Use Dynamic variable in your CSS code. [Download here](https://github.com/TihounaNasrallah/qodly-stylishbox/releases)
 - [qodly_Virtualizer](https://github.com/metayoub/qodly_virtualizer) - A dynamic Matrix for your qodly project. [Download here](https://github.com/metayoub/qodly_virtualizer/releases)
-
+- [qodly_AG Grid](https://github.com/metayoub/Qodly_AGGrid) - AG Grid (dataTable) for your qodly project. [Download here](https://github.com/metayoub/Qodly_AGGrid/releases)
+- 
 ## Inputs
 
 - [qodly_slate](https://github.com/metayoub/qodly_slate)- Text Editor component for Qodly studio. [Download here](https://github.com/metayoub/qodly_slate/releases)
