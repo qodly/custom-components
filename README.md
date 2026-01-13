@@ -42,7 +42,8 @@ To see how to install the component in the Studio: [Qodly documentation](https:/
 - [qodly_IFrame](https://github.com/TihounaNasrallah/qodly-iframe) - Iframe Component for Qodly Studio. [Download here](https://github.com/TihounaNasrallah/qodly-iframe/releases)
 - [qodly_webCam](https://github.com/metayoub/qodly_webCam) - WebCam Component for Qodly Studio. [Download here](https://github.com/metayoub/qodly_webCam/releases)
 - [qodly_fileManager](https://github.com/metayoub/qodly_filemanager) - File Manager for Qodly Studio. [Download here](https://github.com/metayoub/qodly_filemanager/releases)
-  
+- [qodly_dropZOne](https://github.com/metayoub/Qodly_DropZone) - Uplad ZOne that works with HTTP Handlers for Qodly Studio. [Download here](https://github.com/metayoub/Qodly_DropZone/releases)
+
 ## Feedback
 
 ## UI Layout
@@ -50,6 +51,7 @@ To see how to install the component in the Studio: [Qodly documentation](https:/
 - [qodly_PopOver](https://github.com/metayoub/qodly_popover) - Create your own PopOver or DropDown. [Download here](https://github.com/metayoub/qodly_popover/releases)
 - [qodly_StylishBox](https://github.com/TihounaNasrallah/qodly-stylishbox) - Use Dynamic variable in your CSS code. [Download here](https://github.com/TihounaNasrallah/qodly-stylishbox/releases)
 - [qodly_Virtualizer](https://github.com/metayoub/qodly_virtualizer) - A dynamic Matrix for your qodly project. [Download here](https://github.com/metayoub/qodly_virtualizer/releases)
+- [qodly_Virtuoso](https://github.com/metayoub/qodly_Virtuoso) - A dynamic Matrix using virtuoso.dev for your qodly project. [Download here](https://github.com/metayoub/qodly_Virtuoso/releases)
 - [qodly_AG Grid](https://github.com/metayoub/Qodly_AGGrid) - AG Grid (dataTable) for your qodly project. [Download here](https://github.com/metayoub/Qodly_AGGrid/releases)
 - 
 ## Inputs
