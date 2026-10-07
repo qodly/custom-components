@@ -53,7 +53,7 @@ To see how to install the component in the Studio: [Qodly documentation](https:/
 - [qodly_Virtualizer](https://github.com/metayoub/qodly_virtualizer) - A dynamic Matrix for your qodly project. [Download here](https://github.com/metayoub/qodly_virtualizer/releases)
 - [qodly_Virtuoso](https://github.com/metayoub/qodly_Virtuoso) - A dynamic Matrix using virtuoso.dev for your qodly project. [Download here](https://github.com/metayoub/qodly_Virtuoso/releases)
 - [qodly_AG Grid](https://github.com/metayoub/Qodly_AGGrid) - AG Grid (dataTable) for your qodly project. [Download here](https://github.com/metayoub/Qodly_AGGrid/releases)
-- [CopyClipBoard](https://github.com/4d-depot/Qodly-copy-clipboard) - Copy text from a Qodly datasource to the clipboard with a click.
+- [Qodly-copy-clipboard](https://github.com/4d-depot/Qodly-copy-clipboard) - Copy text from a Qodly datasource to the clipboard with a click.
 
 ## Inputs
 
