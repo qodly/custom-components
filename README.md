@@ -62,5 +62,6 @@ To see how to install the component in the Studio: [Qodly documentation](https:/
 - [qodly_rating](https://github.com/metayoub/qoldy_rating) - Rating component for Qodly studio. [Download here](https://github.com/metayoub/qoldy_rating/releases)
 - [qodly_tinyMCE](https://github.com/metayoub/Qodly_TinyMCE) - Text Editor component for Qodly studio. [Download here](https://github.com/metayoub/Qodly_TinyMCE/releases)
 - [qodly_colorPicker](https://github.com/metayoub/qodly_color_input) - Color Picker component for Qodly studio. [Download here](https://github.com/metayoub/qodly_color_input/releases)
+- [qodly_filterPanel](https://github.com/mathieu-ferry/qodly-filter-panel) - No-code filter and sort panel for entity selection datasources, configured in Studio. [Download here](https://github.com/mathieu-ferry/qodly-filter-panel/releases)
 
 ## Navigation
